@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tetris.dir/main.cpp.o CMakeFiles/Tetris.dir/classe_griglia.cpp.o CMakeFiles/Tetris.dir/classe_matrice.cpp.o CMakeFiles/Tetris.dir/classe_tetramino.cpp.o CMakeFiles/Tetris.dir/funz_array.cpp.o CMakeFiles/Tetris.dir/funzioni_di_gioco.cpp.o CMakeFiles/Tetris.dir/liste.cpp.o -o Tetris  -lncurses /usr/lib/x86_64-linux-gnu/libform.so 
